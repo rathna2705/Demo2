@@ -1,0 +1,2 @@
+Welcome to Git Training. 
+Git is an open source
